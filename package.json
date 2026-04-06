@@ -1,7 +1,7 @@
 {
   "name": "openclaw-skill-gitlab-by-altf1be",
   "version": "1.0.0",
-  "description": "OpenClaw skill for GitLab — full CRUD via GitLab REST API v4",
+  "description": "OpenClaw skill for GitLab — broad GitLab REST API v4 CLI coverage",
   "type": "module",
   "bin": {
     "gitlab": "./scripts/gitlab.mjs"
