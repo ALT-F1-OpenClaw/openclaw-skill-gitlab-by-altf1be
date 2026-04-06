@@ -1,0 +1,7 @@
+{
+  "name": "gitlab-by-altf1be",
+  "author": "altf1be",
+  "service": "gitlab",
+  "status": "scaffolded",
+  "coverageMode": "full-skeleton"
+}
