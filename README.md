@@ -1,5 +1,12 @@
 # gitlab-by-altf1be
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js >=18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![ClawHub](https://img.shields.io/badge/ClawHub-gitlab--by--altf1be-blueviolet)](https://clawhub.ai/skills/gitlab-by-altf1be)
+[![GitHub commits](https://img.shields.io/github/commit-activity/m/ALT-F1-OpenClaw/openclaw-skill-gitlab-by-altf1be)](https://github.com/ALT-F1-OpenClaw/openclaw-skill-gitlab-by-altf1be/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/ALT-F1-OpenClaw/openclaw-skill-gitlab-by-altf1be)](https://github.com/ALT-F1-OpenClaw/openclaw-skill-gitlab-by-altf1be/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ALT-F1-OpenClaw/openclaw-skill-gitlab-by-altf1be?style=social)](https://github.com/ALT-F1-OpenClaw/openclaw-skill-gitlab-by-altf1be/stargazers)
+
 OpenClaw skill for GitLab with full CRUD operations, pipelines, merge requests, issues, and repository automation via GitLab REST API v4.
 
 By [Abdelkrim BOUJRAF](https://www.alt-f1.be) / ALT-F1 SRL, Brussels 🇧🇪 🇲🇦
